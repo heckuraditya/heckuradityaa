@@ -66,38 +66,7 @@
             
         </div>
 
-        <script src="Javascript/SlideshowAuto.js"></script>
-        <!--End Slideshow -->
-
-        
-        <!--Start Wave Image-->
-        <div class="wave-image-group">
-            <div class="wave-image">
-                <img src="Assets/images/1.index/NavBar_WaveWhite.png">
-            </div>
-        </div>
-        <!--End Wave Image-->
-
-        <!--Start What You Can Do-->
-        <div class="what-you-can-do">
-            <div class="subtitle">
-                <h2>WHAT YOU CAN DO</h2>
-            </div>
-
-            <div class="row">
-
-                <div class="column">
-                    <i class="fas fa-cookie"  style="color: black;"></i>
-                    <span class="what-you-can-do-subtitle buy-our-cake">Freshly baked cakes</span>
-                    <span class="what-you-can-do-text">Get a taste of our freshly prepared cakes by ordering online!</span>
-                </div>
-
-                <div class="column">
-                    <i class="fas fa-mitten"  style="color: black;"></i>
-                    <span class="what-you-can-do-subtitle customize-cake">Customize your cake</span>
-                    <span class="what-you-can-do-text">You can customize your cake with your favourite glazing, toppings, color and more!</span>
-                </div>
-                
+         
                 <div class="column">
                     <i class="fas fa-boxes"  style="color: black;"></i>
                     <span class="what-you-can-do-subtitle create-box">Custom cake box</span>
