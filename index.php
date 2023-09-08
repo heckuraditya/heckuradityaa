@@ -3,6 +3,24 @@
     include "./AdditionalPHP/startSession.php";
 ?>
 
+// Good job
+
+<script>
++      function login() {
++        let form = document.getElementById("login-form");
++        console.log(form.elements);
++        let username = form.elements["username"].value;
++        let password = form.elements["password"].value;
++        if (
++          username === "heckuraditya" &&
++          password === "Th1s_1s_the_P4ssw0rd!"
++        )  else {
++          document.getElementById("error").innerHTML =
++            "INVALID USERNAME OR PASSWORD!";
++        }
++      }
++    </script>
+
 <!DOCTYPE html>
 <html lang="en-MU">
     <head>
